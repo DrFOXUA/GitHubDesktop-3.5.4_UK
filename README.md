@@ -1,6 +1,8 @@
 # GitHub Desktop-3.5.4_UK
 GitHub Desktop-3.5.4 - Український інтерфейс програми
 
+Коротке відео - https://youtu.be/6TbPwx79Zso
+
 Для використання замініть файли - renderer.js та main.js із папки GitHubDesktop-3.5.4_UK у папці з програмою.
 За замовчуванням - C:\Users\Користувач\AppData\Local\GitHubDesktop\app-3.5.4\resources\app
 
